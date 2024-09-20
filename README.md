@@ -1,6 +1,6 @@
 # Portfolio
 
-![views]([https://githits.vercel.app/api/views](https://mia-ameen.vercel.app/))
+![Portfolio](https://mia-ameen.vercel.app/)
 
 ## Tech Stack
 
