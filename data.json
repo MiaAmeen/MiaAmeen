@@ -30,47 +30,30 @@
             "TypeScript",
             "JavaScript",
             "Java",
-            "C++",
+            "C",
             "Python",
-            "HTML5",
+            "HTML",
             "CSS3",
-            "Kotlin",
-            "Dart"
+            "SQL",
+            "R"
         ],
-        "Frontend": [
+        "Dev Tools": [
+            "Docker",
+            "REST API",
+            "AngularJS",
             "React",
-            "Redux",
-            "Next.js",
-            "Gatsby",
-            "Netlify",
-            "Vercel",
-            "Material-UI",
-            "antdesign",
-            "Bootstrap"
+            "Spring Boot",
+            "JUnit",
+            "PyTest",
+            "Jenkins",
+            "MySQL Workbench",
+            "Git Workflows",
         ],
-        "Backend, Database and Cloud": [
-            "Node.js",
-            "Express",
-            "FastAPI",
-            "MongoDB",
-            "MySQL",
-            "PostgreSQL",
-            {
-                "alt": "Azure",
-                "icon": "microsoftazure"
-            },
-            "Heroku",
-            "Firebase"
-        ],
-        "Mobile": [
-            {
-                "alt": "React_Native",
-                "icon": "react",
-                "backgroundColor": "#424242"
-            },
-            "Expo",
-            "Android",
-            "Flutter"
+        "GPU Programming": [
+            "PyTorch",
+            "TensorFLow",
+            "CUDA",
+            "HuggingFace-GPT",
         ]
     },
     "projects": {
