@@ -1,34 +1,27 @@
 {
-    "name": "Kaustubh Odak",
+    "name": "Mia Ameen",
     "landing": {
-        "title": "Hi, I'm Kaustubh",
+        "title": "Hi, I'm Mia",
         "subtitles": [
             "Full-stack developer 🌐",
-            "Cross-platform developer 📱💻",
-            "Exploring cloud ☁️",
-            "Beginner in devops ♾️",
+            "Machine Learning Engineer 💻",
             "Just getting started 📈"
         ],
         "professionalDetails": [
             {
-                "alt": "kaustubh-odak",
+                "alt": "Connect with me!",
                 "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/kaustubh-odak/"
+                "link": "https://www.linkedin.com/in/mia-ameen-765442207/"
             },
             {
-                "alt": "kausko",
-                "icon": "stackoverflow",
-                "link": "https://stackoverflow.com/users/15832433/kausko"
-            },
-            {
-                "alt": "kausko",
+                "alt": "Github",
                 "icon": "github",
-                "link": "https://github.com/kausko"
+                "link": "https://github.com/MiaAmeen"
             },
             {
-                "alt": "Email",
+                "alt": "Email me!",
                 "icon": "gmail",
-                "link": "mailto:iam@kaustubhodak.me,kaustubhodak1@gmail.com"
+                "link": "mailto:fathimeeny300@gmail.com,fathimeeny300@gmail.com"
             }
         ]
     },
@@ -146,7 +139,7 @@
         ]
     },
     "about": {
-        "description": "I am a full-stack cross-platform app developer, pursuing my M.S. in Computer Science from Georgia Tech. I strive to make meaningful applications with the best UI practices. ",
+        "description": "I like to code! My interests lie in AI in education and full stack development. Hobbies and interests include hiking, traveling, playing guitar, skateboarding! ",
         "picture": "/profile.JPG",
         "social": []
     },
