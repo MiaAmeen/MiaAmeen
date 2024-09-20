@@ -110,32 +110,6 @@
                 "url": "https://www.linkedin.com/company/clouddfn-llp/",
                 "thumbnail": "https://www.nonceblox.com/ton3.png"
             }
-        ],
-        "Volunteer Experience": [
-            {
-                "organization": "PICT IEEE Student Branch (PISB)",
-                "role": "Technical Head",
-                "type": "Member",
-                "startDate": "2019-07-01",
-                "endDate": "",
-                "city": "Pune",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/pisbieee/",
-                "thumbnail": "/PISB.jfif"
-            },
-            {
-                "organization": "Pictoreal",
-                "role": "Technical Head",
-                "type": "Member",
-                "startDate": "2019-07-01",
-                "endDate": "2021-04-01",
-                "city": "Pune",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/pictoreal/",
-                "thumbnail": "/Picto.jfif"
-            }
         ]
     },
     "about": {
