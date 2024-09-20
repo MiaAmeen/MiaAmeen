@@ -1,6 +1,6 @@
 # Portfolio
 
-![views](https://githits.vercel.app/api/views?user=kausko&repo=Portfolio&mode=dark&disable=Total)
+![Portfolio](https://mia-ameen.vercel.app/)
 
 ## Tech Stack
 
