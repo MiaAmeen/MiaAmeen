@@ -1,28 +1,34 @@
 {
-    "name": "Mia Ameen",
+    "name": "Kaustubh Odak",
     "landing": {
-        "title": "Hi, I'm Mia",
+        "title": "Hi, I'm Kaustubh",
         "subtitles": [
             "Full-stack developer 🌐",
-            "Machine Learning Engineer 💻",
-            "Creative :o",
+            "Cross-platform developer 📱💻",
+            "Exploring cloud ☁️",
+            "Beginner in devops ♾️",
             "Just getting started 📈"
         ],
         "professionalDetails": [
             {
-                "alt": "Connect with me!",
+                "alt": "kaustubh-odak",
                 "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/mia-ameen-765442207/"
+                "link": "https://www.linkedin.com/in/kaustubh-odak/"
             },
             {
-                "alt": "Github",
+                "alt": "kausko",
+                "icon": "stackoverflow",
+                "link": "https://stackoverflow.com/users/15832433/kausko"
+            },
+            {
+                "alt": "kausko",
                 "icon": "github",
-                "link": "https://github.com/MiaAmeen"
+                "link": "https://github.com/kausko"
             },
             {
-                "alt": "Email me!",
+                "alt": "Email",
                 "icon": "gmail",
-                "link": "mailto:fathimeeny300@gmail.com,fathimeeny300@gmail.com"
+                "link": "mailto:iam@kaustubhodak.me,kaustubhodak1@gmail.com"
             }
         ]
     },
@@ -31,30 +37,47 @@
             "TypeScript",
             "JavaScript",
             "Java",
-            "C",
+            "C++",
             "Python",
-            "HTML",
+            "HTML5",
             "CSS3",
-            "SQL",
-            "R"
+            "Kotlin",
+            "Dart"
         ],
-        "Dev Tools": [
-            "Docker",
-            "REST API",
-            "AngularJS",
+        "Frontend": [
             "React",
-            "Spring Boot",
-            "JUnit",
-            "PyTest",
-            "Jenkins",
-            "MySQL Workbench",
-            "Git Workflows",
+            "Redux",
+            "Next.js",
+            "Gatsby",
+            "Netlify",
+            "Vercel",
+            "Material-UI",
+            "antdesign",
+            "Bootstrap"
         ],
-        "GPU Programming": [
-            "PyTorch",
-            "TensorFLow",
-            "CUDA",
-            "HuggingFace-GPT",
+        "Backend, Database and Cloud": [
+            "Node.js",
+            "Express",
+            "FastAPI",
+            "MongoDB",
+            "MySQL",
+            "PostgreSQL",
+            {
+                "alt": "Azure",
+                "icon": "microsoftazure"
+            },
+            "Heroku",
+            "Firebase"
+        ],
+        "Mobile": [
+            {
+                "alt": "React_Native",
+                "icon": "react",
+                "backgroundColor": "#424242"
+            },
+            "Expo",
+            "Android",
+            "Flutter"
         ]
     },
     "projects": {
@@ -71,31 +94,59 @@
     "experience": {
         "Work Experience": [
             {
-                "organization": "RENCI",
-                "role": "Research Assistant",
+                "organization": "CloudDFN LLP",
+                "role": "Full Stack Developer",
                 "type": "Internship",
-                "startDate": "2024-05-16",
+                "startDate": "2020-07-20",
                 "endDate": "2021-01-20",
-                "city": "Chapel Hill",
-                "state": "North Carolina",
-                "country": "United States",
-                "url": "https://www.linkedin.com/company/renaissance-computing-institute",
+                "city": "Mumbai",
+                "state": "Maharashtra",
+                "country": "India",
+                "url": "https://www.linkedin.com/company/clouddfn-llp/",
                 "thumbnail": "/CDFN.jfif"
             },
             {
-                "organization": "North Carolina State University",
-                "role": "Undergraduate Researcher",
+                "organization": "NonceBlox Pvt. Ltd.",
+                "role": "Full Stack Developer",
                 "type": "Internship",
-                "startDate": "2023-08-01",
-                "endDate": "2024-15-04",
-                "city": "Raleigh",
-                "state": "North Carolina",
-                "country": "United States",
+                "startDate": "2021-07-01",
+                "endDate": "2021-10-01",
+                "city": "New Delhi",
+                "state": "Delhi",
+                "country": "India",
+                "url": "https://www.linkedin.com/company/clouddfn-llp/",
                 "thumbnail": "https://www.nonceblox.com/ton3.png"
             }
         ],
+        "Volunteer Experience": [
+            {
+                "organization": "PICT IEEE Student Branch (PISB)",
+                "role": "Technical Head",
+                "type": "Member",
+                "startDate": "2019-07-01",
+                "endDate": "",
+                "city": "Pune",
+                "state": "Maharashtra",
+                "country": "India",
+                "url": "https://www.linkedin.com/company/pisbieee/",
+                "thumbnail": "/PISB.jfif"
+            },
+            {
+                "organization": "Pictoreal",
+                "role": "Technical Head",
+                "type": "Member",
+                "startDate": "2019-07-01",
+                "endDate": "2021-04-01",
+                "city": "Pune",
+                "state": "Maharashtra",
+                "country": "India",
+                "url": "https://www.linkedin.com/company/pictoreal/",
+                "thumbnail": "/Picto.jfif"
+            }
+        ]
+    },
     "about": {
-        "description": "I like to code! My interests lie in AI in education and full stack development. Hobbies and interests include hiking, traveling, playing guitar, skateboarding!",
+        "description": "I am a full-stack cross-platform app developer, pursuing my M.S. in Computer Science from Georgia Tech. I strive to make meaningful applications with the best UI practices. ",
         "picture": "/profile.JPG",
         "social": []
     },
