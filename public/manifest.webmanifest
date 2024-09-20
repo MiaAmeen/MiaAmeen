@@ -2,11 +2,11 @@
     "theme_color": "#000000",
     "background_color": "#000000",
     "display": "standalone",
-    "scope": "https://kaustubhodak.vercel.app/",
-    "start_url": "https://kaustubhodak.vercel.app/",
-    "name": "Kaustubh Odak",
-    "short_name": "KO",
-    "description": "Kaustubh Odak's portfolio",
+    "scope": "https://mia-ameen.vercel.app/",
+    "start_url": "https://mia-ameen.vercel.app/",
+    "name": "Mia Ameen",
+    "short_name": "MA",
+    "description": "Mia Ameen's portfolio",
     "icons": [
         {
             "src": "/icon-192x192.png",
