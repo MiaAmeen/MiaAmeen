@@ -37,23 +37,40 @@
             "SQL",
             "R"
         ],
-        "Dev Tools": [
-            "Docker",
-            "REST API",
-            "AngularJS",
+        "Frontend": [
             "React",
-            "Spring Boot",
-            "JUnit",
-            "PyTest",
-            "Jenkins",
-            "MySQL Workbench",
-            "Git Workflows",
+            "Redux",
+            "Next.js",
+            "Gatsby",
+            "Netlify",
+            "Vercel",
+            "Material-UI",
+            "antdesign",
+            "Bootstrap"
         ],
-        "GPU Programming": [
-            "PyTorch",
-            "TensorFLow",
-            "CUDA",
-            "HuggingFace-GPT",
+        "Backend, Database and Cloud": [
+            "Node.js",
+            "Express",
+            "FastAPI",
+            "MongoDB",
+            "MySQL",
+            "PostgreSQL",
+            {
+                "alt": "Azure",
+                "icon": "microsoftazure"
+            },
+            "Heroku",
+            "Firebase"
+        ],
+        "Mobile": [
+            {
+                "alt": "React_Native",
+                "icon": "react",
+                "backgroundColor": "#424242"
+            },
+            "Expo",
+            "Android",
+            "Flutter"
         ]
     },
     "projects": {
